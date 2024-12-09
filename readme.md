@@ -8,3 +8,5 @@ F
 T
 S
 new
+crazy commit
+new commit
