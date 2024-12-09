@@ -10,3 +10,4 @@ S
 new
 crazy commit
 new commit
+stash from git work
